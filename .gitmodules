@@ -1,0 +1,3 @@
+[submodule "Third party/esp-homekit"]
+	path = Third party/esp-homekit
+	url = https://github.com/beastgrim/esp-homekit
